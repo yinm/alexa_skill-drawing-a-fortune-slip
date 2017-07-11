@@ -15,9 +15,12 @@ const FORTUNE_SLIPS = [
   'Bad luck'           // 凶
 ];
 
+exports.handler = (event, context, callback) => {
+  const alexa = Alexa.handler(event, context);
+  alexa.registerHandlers(handlers);
+  alexa.execute();
+};
 
+const handlers = {
 
-
-
-
-
+};
