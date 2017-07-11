@@ -1,0 +1,2 @@
+DrawAFortuneSlipIntent draw a fortune slip
+DrawAFortuneSlipIntent tell me my fortune
