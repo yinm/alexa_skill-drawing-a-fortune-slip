@@ -1,1 +1,1 @@
-# alexa_skill-drawing-a-fortune-slip
+Alexaでおみくじを引けるようにします
